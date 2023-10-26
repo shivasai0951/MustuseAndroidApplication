@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:background="@drawable/bgm3"
+    android:layout_height="match_parent"
+    tools:context=".more3">
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:inputType="number"
+        android:textSize="22sp"
+        android:layout_marginStart="10dp"
+        android:hint="ENTER  PHONE NUMBER"
+        android:id="@+id/txt_phone_number"
+        />
+
+
+    <EditText
+        android:id="@+id/txt_msg"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="110dp"
+        android:gravity="top"
+        android:hint="ENTER text"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_button"
+        android:text="SEND"
+        android:textSize="22sp"
+        android:onClick="btn_send"
+        android:layout_marginTop="500dp"/>
+</RelativeLayout>

@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\call.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gmail.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\gmail.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hospital.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_hospital.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvggl.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvggl.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_manabadi.jpeg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\manabadi.jpeg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back10.jpeg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\back10.jpeg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\google.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aboutblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_aboutblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gana.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\gana.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hospital.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\hospital.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_settings.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\settings.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cal.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\cal.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvyt.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvyt.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvdplama.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvdplama.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\mr.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgm2.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\bgm2.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resultsblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_resultsblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvaz.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvaz.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sett1.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\sett1.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calculatorblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_calculatorblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cro.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\cro.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_re.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\re.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_local.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_local.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cale.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\cale.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_agecal.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_agecal.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flipkart.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\flipkart.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_age.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\age.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_more2.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_more2.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_moreblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_moreblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvttr.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvttr.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shopingblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_shopingblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_amazon.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\amazon.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvis.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvis.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cal.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_cal.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_facebook.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\facebook.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvyo.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvyo.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emer.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\emer.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvfb.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvfb.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ping.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\ping.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_music2.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_music2.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enter.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_enter.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvju.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvju.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chrome.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\chrome.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twiter.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\twiter.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main13.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\main13.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_more1.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_more1.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvptm.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvptm.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgm3.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\bgm3.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paytm.jpeg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\paytm.jpeg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvel.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvel.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blood.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\blood.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call11.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\call11.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sbtet.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\sbtet.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_youtube.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emergency.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\emergency.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_resul.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\resul.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoping.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\shoping.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chromeblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_chromeblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yellow.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\yellow.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_main.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\main.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soc.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\soc.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sms.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\sms.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_more3.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_more3.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eme.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\eme.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_social.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\social.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\green.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_socialblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_socialblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_onclick.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\onclick.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_speech.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\speech.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvfk.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvfk.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wvmabi.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_wvmabi.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jntu.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\jntu.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video2.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_video2.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\red.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_in.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\in.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bloodbank.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_bloodbank.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgm.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\bgm.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yahoo.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable\\yahoo.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\f.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_callsblock.xml.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\layout\\activity_callsblock.xml"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_voot.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\voot.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back11.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\back11.jpg"
+    },
+    {
+        "merged": "F:\\android projects\\MustUse\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_speek.jpg.flat",
+        "source": "F:\\android projects\\MustUse\\app\\src\\main\\res\\drawable-v24\\speek.jpg"
+    }
+]

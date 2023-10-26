@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mustuse">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".video2"
+            android:parentActivityName=".enter"
+            ></activity>
+        <activity android:name=".music2"
+            android:parentActivityName=".enter"
+            />
+        <activity android:name=".enter"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".more3"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".more2"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".more1"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".wvptm"
+            android:parentActivityName=".shopingblock" />
+        <activity
+            android:name=".wvfk"
+            android:parentActivityName=".shopingblock" />
+        <activity
+            android:name=".wvaz"
+            android:parentActivityName=".shopingblock" />
+        <activity
+            android:name=".shopingblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".agecal"
+            android:parentActivityName=".calculatorblock" />
+        <activity
+            android:name=".cal"
+            android:parentActivityName=".calculatorblock" />
+        <activity
+            android:name=".wvdplama"
+            android:parentActivityName=".resultsblock" />
+        <activity
+            android:name=".wvmabi"
+            android:parentActivityName=".resultsblock" />
+        <activity
+            android:name=".wvju"
+            android:parentActivityName=".resultsblock" />
+        <activity
+            android:name=".bloodbank"
+            android:parentActivityName=".callsblock" />
+        <activity
+            android:name=".hospital"
+            android:parentActivityName=".callsblock" />
+        <activity
+            android:name=".local"
+            android:parentActivityName=".callsblock" />
+        <activity
+            android:name=".wvel"
+            android:parentActivityName=".chromeblock" />
+        <activity
+            android:name=".wvyo"
+            android:parentActivityName=".chromeblock" />
+        <activity
+            android:name=".wvyt"
+            android:parentActivityName=".chromeblock" />
+        <activity
+            android:name=".wvggl"
+            android:parentActivityName=".chromeblock" />
+        <activity
+            android:name=".wvttr"
+            android:parentActivityName=".socialblock" />
+        <activity
+            android:name=".wvis"
+            android:parentActivityName=".socialblock" />
+        <activity
+            android:name=".wvfb"
+            android:parentActivityName=".socialblock" />
+        <activity
+            android:name=".aboutblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".moreblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".calculatorblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".resultsblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".callsblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".chromeblock"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".socialblock"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

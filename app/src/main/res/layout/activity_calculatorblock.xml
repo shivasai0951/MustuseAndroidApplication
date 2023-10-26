@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:background="@drawable/bgm2"
+    android:layout_height="match_parent"
+    tools:context=".calculatorblock">
+
+
+    <Button
+        android:id="@+id/btncal1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="173dp"
+        android:background="@drawable/cal" />
+
+    <Button
+        android:id="@+id/btncal2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="400dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="140dp"
+        android:background="@drawable/age" />
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/bgm3"
+    tools:context=".more1">
+
+
+    <ImageView
+
+        android:layout_width="150dp"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/speek"
+        android:layout_height="150dp" />
+
+    <TextView android:textSize="36dp" android:textColor="#000" android:id="@+id/textview"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="272dp" android:text="Text to Speech"
+        android:layout_alignParentTop="true" android:layout_centerHorizontal="true"/>
+
+
+    <EditText android:textColor="#000"
+        android:textColorHint="#000" android:id="@+id/editText" android:layout_width="150dp"
+        android:layout_height="50dp" android:layout_marginLeft="1dp" android:layout_marginTop="300dp"
+        android:layout_marginRight="-1dp" android:hint="Enter Text" android:layout_centerInParent="true"
+        android:layout_marginStart="1dp" android:layout_marginEnd="-1dp"/>
+
+
+    <Button android:id="@+id/button"
+        android:background="@drawable/custom_button"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_marginTop="56dp" android:text="Text to Speech" android:layout_below="@+id/editText"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="150dp"
+        android:layout_marginEnd="155dp"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>
+

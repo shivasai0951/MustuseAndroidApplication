@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgm2"
+    tools:context=".chromeblock">
+
+
+
+    <Button android:id="@+id/btn12"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="180dp"
+        android:layout_alignParentTop="true"
+        android:onClick="google"
+        android:background="@drawable/google"
+        android:layout_marginStart="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="35dp"
+        android:layout_alignParentLeft="true" />
+
+
+    <Button android:id="@+id/btn13"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="180dp"
+        android:layout_alignParentTop="true"
+        android:onClick="youtube"
+        android:background="@drawable/youtube"
+        android:layout_marginEnd="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="35dp"
+        android:layout_alignParentRight="true" />
+
+
+    <Button
+        android:id="@+id/btn14"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/btn12"
+        android:layout_alignBottom="@+id/btn14"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/yahoo"
+        android:onClick="yahoo" />
+
+
+    <Button
+        android:id="@+id/btn15"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/btn13"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/gmail"
+        android:onClick="email" />
+
+</RelativeLayout>

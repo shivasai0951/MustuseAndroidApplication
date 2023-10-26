@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgm3"
+    tools:context=".aboutblock">
+
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="20dp" android:textColor="#000" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:text="hii iam KANDOJI.SHIVASAI the developer of this app," android:layout_marginStart="14dp" android:layout_marginEnd="17dp" android:layout_alignParentStart="true" android:layout_alignParentEnd="true"/>
+        <TextView android:textSize="20dp"
+            android:textColor="#000"
+            android:layout_width="380dp" android:layout_height="40dp" android:layout_marginTop="90dp" android:text="the app contain a lot of features you need" android:layout_marginStart="14dp" android:layout_marginEnd="17dp" android:layout_alignParentStart="true" android:layout_alignParentEnd="true"/>
+        <ImageView  android:layout_width="350dp"
+            android:background="@drawable/main" android:layout_height="500dp" android:layout_marginTop="150dp" android:layout_marginStart="30dp"
+            android:layout_marginLeft="30dp" />
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="150dp" android:layout_height="270dp" android:layout_marginTop="750dp" android:text="google  facebook instagram   twitter           email        youtube       yahoo             amazon       flipkart          paytm  " android:layout_marginStart="100dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="390dp" android:layout_height="50dp" android:layout_marginTop="700dp" android:text="you can use the all apps in mustuse app like:-" android:layout_marginStart="15dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="799dp" android:layout_height="80dp" android:layout_marginTop="1010dp" android:text="not only a social media here we have main result websites" android:layout_marginStart="15dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="100dp" android:layout_height="150dp" android:layout_marginTop="1060dp" android:text="like:-      ssc       inter      btech    diploma   degree" android:layout_marginStart="100dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="799dp" android:layout_height="50dp" android:layout_marginTop="1200dp" android:text="and emergency call list like:-" android:layout_marginStart="15dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="250dp" android:layout_height="100dp" android:layout_marginTop="1250dp" android:text="hospital -9 numbers             Blood bank -7 numbers            emergency  -15 number" android:layout_marginStart="100dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="300dp" android:layout_height="50dp" android:layout_marginTop="1350dp" android:text="one click to access call" android:layout_marginStart="14dp"/>
+        <ImageView  android:layout_width="350dp"
+            android:layout_height="500dp" android:layout_marginTop="1400dp" android:background="@drawable/call11" android:layout_marginStart="30dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:layout_width="250dp" android:layout_height="100dp"
+            android:layout_marginTop="1920dp" android:text="we have type to speech engine in offline too"
+            android:layout_marginStart="14dp"/>
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="500dp"
+            android:layout_marginStart="30dp"
+            android:background="@drawable/speech"
+            android:layout_marginTop="2000dp"
+            />
+
+        <ImageView  android:layout_width="350dp" android:layout_height="500dp"
+            android:layout_marginTop="2700dp"
+            android:background="@drawable/sett1"
+            android:layout_marginStart="30dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="350dp" android:layout_height="100dp" android:layout_marginTop="2520dp" android:text="BEFORE IT ALLOWE THE PERMISSIONS GIVEN DOWN" android:layout_marginStart="14dp"/>
+        <TextView
+            android:textColor="#000"
+            android:textSize="20dp" android:layout_width="250dp" android:layout_height="100dp" android:layout_marginTop="3300dp" android:text="THANK YOU FOR USING MY APP" android:layout_marginStart="14dp"/>
+    </RelativeLayout>
+</ScrollView>

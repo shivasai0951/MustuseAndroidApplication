@@ -1,0 +1,251 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mustuse"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:6:5-67
+11-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.SEND_SMS" />
+12-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:7:5-67
+12-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:8:5-69
+13-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:8:22-66
+14
+15    <application
+15-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:10:5-120:19
+16        android:allowBackup="true"
+16-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:11:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.1.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:14:9-54
+22        android:supportsRtl="true"
+22-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:15:9-35
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme"
+24-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:16:9-40
+25        android:usesCleartextTraffic="true" >
+25-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:17:9-44
+26        <activity
+26-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:18:9-20:25
+27            android:name="com.example.mustuse.video2"
+27-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:18:19-41
+28            android:parentActivityName="com.example.mustuse.enter" />
+28-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:19:13-48
+29        <activity
+29-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:21:9-23:15
+30            android:name="com.example.mustuse.music2"
+30-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:21:19-41
+31            android:parentActivityName="com.example.mustuse.enter" />
+31-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:22:13-48
+32        <activity
+32-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:24:9-25:57
+33            android:name="com.example.mustuse.enter"
+33-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:24:19-40
+34            android:parentActivityName="com.example.mustuse.MainActivity" />
+34-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:25:13-55
+35        <activity
+35-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:26:9-28:58
+36            android:name="com.example.mustuse.more3"
+36-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:27:13-34
+37            android:parentActivityName="com.example.mustuse.MainActivity" />
+37-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:28:13-55
+38        <activity
+38-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:29:9-31:58
+39            android:name="com.example.mustuse.more2"
+39-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:30:13-34
+40            android:parentActivityName="com.example.mustuse.MainActivity" />
+40-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:31:13-55
+41        <activity
+41-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:32:9-34:58
+42            android:name="com.example.mustuse.more1"
+42-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:33:13-34
+43            android:parentActivityName="com.example.mustuse.MainActivity" />
+43-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:34:13-55
+44        <activity
+44-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:35:9-37:58
+45            android:name="com.example.mustuse.wvptm"
+45-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:36:13-34
+46            android:parentActivityName="com.example.mustuse.shopingblock" />
+46-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:37:13-55
+47        <activity
+47-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:38:9-40:58
+48            android:name="com.example.mustuse.wvfk"
+48-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:39:13-33
+49            android:parentActivityName="com.example.mustuse.shopingblock" />
+49-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:40:13-55
+50        <activity
+50-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:41:9-43:58
+51            android:name="com.example.mustuse.wvaz"
+51-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:42:13-33
+52            android:parentActivityName="com.example.mustuse.shopingblock" />
+52-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:43:13-55
+53        <activity
+53-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:44:9-46:58
+54            android:name="com.example.mustuse.shopingblock"
+54-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:45:13-41
+55            android:parentActivityName="com.example.mustuse.MainActivity" />
+55-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:46:13-55
+56        <activity
+56-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:47:9-49:61
+57            android:name="com.example.mustuse.agecal"
+57-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:48:13-35
+58            android:parentActivityName="com.example.mustuse.calculatorblock" />
+58-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:49:13-58
+59        <activity
+59-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:50:9-52:61
+60            android:name="com.example.mustuse.cal"
+60-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:51:13-32
+61            android:parentActivityName="com.example.mustuse.calculatorblock" />
+61-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:52:13-58
+62        <activity
+62-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:53:9-55:58
+63            android:name="com.example.mustuse.wvdplama"
+63-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:54:13-37
+64            android:parentActivityName="com.example.mustuse.resultsblock" />
+64-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:55:13-55
+65        <activity
+65-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:56:9-58:58
+66            android:name="com.example.mustuse.wvmabi"
+66-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:57:13-35
+67            android:parentActivityName="com.example.mustuse.resultsblock" />
+67-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:58:13-55
+68        <activity
+68-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:59:9-61:58
+69            android:name="com.example.mustuse.wvju"
+69-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:60:13-33
+70            android:parentActivityName="com.example.mustuse.resultsblock" />
+70-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:61:13-55
+71        <activity
+71-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:62:9-64:56
+72            android:name="com.example.mustuse.bloodbank"
+72-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:63:13-38
+73            android:parentActivityName="com.example.mustuse.callsblock" />
+73-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:64:13-53
+74        <activity
+74-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:65:9-67:56
+75            android:name="com.example.mustuse.hospital"
+75-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:66:13-37
+76            android:parentActivityName="com.example.mustuse.callsblock" />
+76-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:67:13-53
+77        <activity
+77-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:68:9-70:56
+78            android:name="com.example.mustuse.local"
+78-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:69:13-34
+79            android:parentActivityName="com.example.mustuse.callsblock" />
+79-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:70:13-53
+80        <activity
+80-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:71:9-73:57
+81            android:name="com.example.mustuse.wvel"
+81-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:72:13-33
+82            android:parentActivityName="com.example.mustuse.chromeblock" />
+82-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:73:13-54
+83        <activity
+83-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:74:9-76:57
+84            android:name="com.example.mustuse.wvyo"
+84-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:75:13-33
+85            android:parentActivityName="com.example.mustuse.chromeblock" />
+85-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:76:13-54
+86        <activity
+86-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:77:9-79:57
+87            android:name="com.example.mustuse.wvyt"
+87-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:78:13-33
+88            android:parentActivityName="com.example.mustuse.chromeblock" />
+88-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:79:13-54
+89        <activity
+89-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:80:9-82:57
+90            android:name="com.example.mustuse.wvggl"
+90-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:81:13-34
+91            android:parentActivityName="com.example.mustuse.chromeblock" />
+91-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:82:13-54
+92        <activity
+92-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:83:9-85:57
+93            android:name="com.example.mustuse.wvttr"
+93-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:84:13-34
+94            android:parentActivityName="com.example.mustuse.socialblock" />
+94-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:85:13-54
+95        <activity
+95-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:86:9-88:57
+96            android:name="com.example.mustuse.wvis"
+96-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:87:13-33
+97            android:parentActivityName="com.example.mustuse.socialblock" />
+97-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:88:13-54
+98        <activity
+98-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:89:9-91:57
+99            android:name="com.example.mustuse.wvfb"
+99-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:90:13-33
+100            android:parentActivityName="com.example.mustuse.socialblock" />
+100-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:91:13-54
+101        <activity
+101-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:92:9-94:58
+102            android:name="com.example.mustuse.aboutblock"
+102-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:93:13-39
+103            android:parentActivityName="com.example.mustuse.MainActivity" />
+103-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:94:13-55
+104        <activity
+104-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:95:9-97:58
+105            android:name="com.example.mustuse.moreblock"
+105-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:96:13-38
+106            android:parentActivityName="com.example.mustuse.MainActivity" />
+106-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:97:13-55
+107        <activity
+107-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:98:9-100:58
+108            android:name="com.example.mustuse.calculatorblock"
+108-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:99:13-44
+109            android:parentActivityName="com.example.mustuse.MainActivity" />
+109-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:100:13-55
+110        <activity
+110-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:101:9-103:58
+111            android:name="com.example.mustuse.resultsblock"
+111-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:102:13-41
+112            android:parentActivityName="com.example.mustuse.MainActivity" />
+112-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:103:13-55
+113        <activity
+113-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:104:9-106:58
+114            android:name="com.example.mustuse.callsblock"
+114-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:105:13-39
+115            android:parentActivityName="com.example.mustuse.MainActivity" />
+115-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:106:13-55
+116        <activity
+116-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:107:9-109:58
+117            android:name="com.example.mustuse.chromeblock"
+117-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:108:13-40
+118            android:parentActivityName="com.example.mustuse.MainActivity" />
+118-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:109:13-55
+119        <activity
+119-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:110:9-112:58
+120            android:name="com.example.mustuse.socialblock"
+120-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:111:13-40
+121            android:parentActivityName="com.example.mustuse.MainActivity" />
+121-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:112:13-55
+122        <activity android:name="com.example.mustuse.MainActivity" >
+122-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:113:9-119:20
+122-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:113:19-47
+123            <intent-filter>
+123-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:114:13-118:29
+124                <action android:name="android.intent.action.MAIN" />
+124-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:115:17-69
+124-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:115:25-66
+125
+126                <category android:name="android.intent.category.LAUNCHER" />
+126-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:117:17-77
+126-->F:\android projects\MustUse\app\src\main\AndroidManifest.xml:117:27-74
+127            </intent-filter>
+128        </activity>
+129    </application>
+130
+131</manifest>
